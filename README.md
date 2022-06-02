@@ -1,2 +1,2 @@
 # allisonfong-portfolio
-attempt to code my own portfolio site
+greetings, earthlings! welcome to allison's shitshow :D follow along on my journey in attempting to code my own portfolio site. my background and primary experience is in design, but i enjoy jumping head first into new experiences and discomfort. i hope to apply my basic frontend web development knowledge and pick up new skills along the way. you are free to debate whether this is masochistic behavior or not. please reach out with any feedback - i would love to hear about ways to improve my practice (design, coding, adulting, etc.)
